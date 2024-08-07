@@ -1,7 +1,7 @@
 package list.OperacoesBasicas;
 
 public class Item {
-    // Atributos
+    // Attribute
     private String nome;
     private double preco;
     private int quantidade;
